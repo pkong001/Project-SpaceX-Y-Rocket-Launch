@@ -23,7 +23,7 @@ For the prediction study, four alternative machine learning classification model
 
 ### Result
 
-You can view the result in ssssss
+You can view the result in [full presentation](https://github.com/pkong001/Project-SpaceX-Y-Rocket-Launch/blob/main/0-PDF_Presentation.pdf)
 
 
 ### Conclusions
@@ -39,7 +39,7 @@ Payload mass can be related to success rate since lighter payloads have typicall
 The SSO orbit has a success rate of 100%.
 
 
-* Please see futher explanation in full [presentation](https://github.com/pkong001/Project-SpaceX-Y-Rocket-Launch/blob/main/0-PDF_Presentation.pdf)
+* Please see futher explanation in [full presentation](https://github.com/pkong001/Project-SpaceX-Y-Rocket-Launch/blob/main/0-PDF_Presentation.pdf)
 
 
 
