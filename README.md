@@ -39,7 +39,7 @@ Payload mass can be related to success rate since lighter payloads have typicall
 The SSO orbit has a success rate of 100%.
 
 
-* Please see futher explanation in full presentation
+* Please see futher explanation in full [presentation](https://github.com/pkong001/Project-SpaceX-Y-Rocket-Launch/blob/main/1-Pongpisut_Space_presentation.pptx)
 
 
 
